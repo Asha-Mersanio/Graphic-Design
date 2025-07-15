@@ -6,6 +6,8 @@ This project showcases my works in branding, social media designs, digital illus
 # Tools Used
 - Canva
 - Capcut
+- Figma
+- AI tools
 
 ## About Me
 I'm passionate about creating beautiful and functional designs.  
